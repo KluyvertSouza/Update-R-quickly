@@ -8,4 +8,12 @@ Identify your version of R
 Install the R update library. This step needs to be done in R cran, it cannot be done in R studio
 > install.packages("installr")
 
-# 
+# Step 3
+
+Select a server to download. Choose one and click OK. If this type of menu does not appear, then the installation will normally start automatically.
+
+# Step 4
+
+Run the update() function of the package that was installed (installer).
+
+> installr::updateR()
