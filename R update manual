@@ -1,0 +1,11 @@
+# Step 1
+
+Identify your version of R
+> version()
+
+# Step 2
+
+Install the R update library. This step needs to be done in R cran, it cannot be done in R studio
+> install.packages("installr")
+
+# 
